@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/layeh/gumble/gumble"
-	"github.com/timshannon/go-openal/openal"
+	"github.com/mikolan/go-openal/openal"
 )
 
 var (
