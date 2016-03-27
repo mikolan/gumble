@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/layeh/gumble/gumble/MumbleProto"
+	"github.com/mikolan/gumble/gumble/MumbleProto"
 )
 
 // Config holds the configuration data used by Client.
